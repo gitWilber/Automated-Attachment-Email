@@ -4,8 +4,8 @@ import smtplib
 from email.message import EmailMessage
 
 # Using credentials from my environment variables
-EMAIL_ADDRESS = os.environ.get('GMAIL_USER')  # 'w.rosales40@gmail.com'
-EMAIL_PASSWORD = os.environ.get('GMAIL_PASS')  # 'nybthlsdowceqtsy'
+EMAIL_ADDRESS = os.environ.get('GMAIL_USER')  # my email
+EMAIL_PASSWORD = os.environ.get('GMAIL_PASS')  # my email password
 
 # Create message
 msg = EmailMessage()
