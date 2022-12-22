@@ -4,8 +4,8 @@ import imghdr
 from email.message import EmailMessage
 
 # Using credentials from my environment variables
-EMAIL_ADDRESS = 'w.rosales40@gmail.com'  # 'w.rosales40@gmail.com'
-EMAIL_PASSWORD = 'nybthlsdowceqtsy'  # 'nybthlsdowceqtsy'
+EMAIL_ADDRESS = os.environ.get('GMAIL_USER')  # my email
+EMAIL_PASSWORD = os.environ.get('GMAIL_PASS')  # my email password
 
 # Contact list
 contacts = [EMAIL_ADDRESS]  # Could add more contacts
