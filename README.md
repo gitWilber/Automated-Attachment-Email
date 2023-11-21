@@ -7,6 +7,8 @@ By leveraging automation, this solution ensures that messages are delivered to r
 
 ## Features
 
+- EmailMessage Class
+- 
 - OS Module
 
   Utilizing the OS Module, I have successfully implemented a mechanism to retrieve my Gmail credentials, which are stored as environment variables on my local system. These credentials encompass my email address as well as my password.
