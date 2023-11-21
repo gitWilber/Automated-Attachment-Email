@@ -13,10 +13,8 @@ By leveraging automation, this solution ensures that messages are delivered to r
 
 - EmailMessage
 
-- Simple Mail Transfer Protocol (SMTP)
-
-
 - File Compatibiity
 
+- Simple Mail Transfer Protocol (SMTP)
 
 ## To Do
