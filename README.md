@@ -10,8 +10,8 @@ By leveraging automation, this solution ensures that messages are delivered to r
 - Simple Mail Transfer Protocol (SMTP)
 
 - OS Module
-  
-Using the OS Module, I am able to retrieve my Gmail credentials stored locally as environment variables. This includes both my email and password
+
+  Using the OS Module, I am able to retrieve my Gmail credentials stored locally as environment variables. This includes both my email and password
 
 - File Compatibiity
 
