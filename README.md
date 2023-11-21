@@ -2,16 +2,17 @@
 
 ## Description
 This application was developed using Python and utilizes automation techniques. 
-This script allows for the efficient sending of personalized and pre-written emails to a large and diverse audience. 
+This script allows for the efficient sending of personalized and pre-written emails to a list of email addresses. 
 By leveraging automation, this solution ensures that messages are delivered to recipients seamlessly, saving time and effort for the sender.
 
 ## Features
 
-- Simple Mail Transfer Protocol (SMTP)
-
 - OS Module
 
-  Using the OS Module, I am able to retrieve my Gmail credentials stored locally as environment variables. This includes both my email and password
+  Utilizing the OS Module, I have successfully implemented a mechanism to retrieve my Gmail credentials, which are stored as environment variables on my local system. These credentials encompass my email address as well as my password.
+
+- Simple Mail Transfer Protocol (SMTP)
+
 
 - File Compatibiity
 
