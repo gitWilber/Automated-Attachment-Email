@@ -15,6 +15,10 @@ By leveraging automation, this solution ensures that messages are delivered to r
 
 - File Compatibiity
 
+    Improved file compatibility by enabling integration of diverse attachment types, including text, pdf and jpg files.
+  
 - Simple Mail Transfer Protocol (SMTP)
+
+    Implemented the utilization of the SMTP library to facilitate seamless email transmission to any internet-connected machine equipped with an SMTP listener daemon.
 
 ## To Do
