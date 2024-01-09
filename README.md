@@ -7,10 +7,6 @@ By leveraging automation, this solution ensures that messages are delivered to r
 
 ## Features
 
-- OS Module
-
-  Utilizing the OS Module, I have successfully implemented a mechanism to retrieve my Gmail credentials, which are stored as environment variables on my local system. These credentials encompass my email address as well as my password.
-
 - EmailMessage
 
 - File Compatibiity
@@ -19,6 +15,11 @@ By leveraging automation, this solution ensures that messages are delivered to r
   
 - Simple Mail Transfer Protocol (SMTP)
 
-    Implemented the utilization of the SMTP library to facilitate seamless email transmission to any internet-connected machine equipped with an SMTP listener daemon.
+    Implemented the utilization of the SMTP library to send emails to any internet-connected machine equipped with an SMTP listener daemon.
+
+- OS Module
+
+  Utilizing the OS Module, I have successfully implemented a mechanism to retrieve my Gmail credentials, which are stored as environment variables on my local system. These credentials encompass my email address as well as my password.
+
 
 ## To Do
