@@ -25,3 +25,11 @@ By leveraging automation, this solution ensures that messages are delivered to r
 
 
 ## To Do
+
+- Schedule Email Message
+
+    I need to incorporate the schedule package into the program in order to send emails at specific times and days. This integration will allow for efficient management and timing of email deliveries based on pre-defined schedules.
+
+
+  
+    
