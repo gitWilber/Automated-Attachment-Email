@@ -9,9 +9,7 @@ By leveraging automation, this solution ensures that messages are delivered to r
 
 - EmailMessage
 
-- File Compatibiity
-
-    Improved file compatibility by enabling integration of diverse attachment types, including text, pdf and jpg files.
+    Utilized Python's EmailMessage class to efficiently construct the email headers, compose the body, and seamlessly integrate attachments.
   
 - Simple Mail Transfer Protocol (SMTP)
 
@@ -20,6 +18,10 @@ By leveraging automation, this solution ensures that messages are delivered to r
 - OS Module
 
   Utilizing the OS Module, I have successfully implemented a mechanism to retrieve my Gmail credentials, which are stored as environment variables on my local system. These credentials encompass my email address as well as my password.
+
+- File Compatibiity
+
+    Improved file compatibility by enabling integration of diverse attachment types, including text, pdf and jpg files.
 
 
 ## To Do
